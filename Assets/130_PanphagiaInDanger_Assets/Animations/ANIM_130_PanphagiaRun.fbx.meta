@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 0fd9f4be6aceccd428911c9c313437b5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature.003
+    100004: RootMotion
+    100006: Velo_Head_JawSHJnt
+    100008: Velo_Head_TopSHJnt
+    100010: Velo_HP_Msh.002
+    100012: Velo_l_Arm_ClavicleSHJnt
+    100014: Velo_l_Arm_Elbow_CurveSHJnt
+    100016: Velo_l_Arm_Shoulder_CurveSHJnt
+    100018: Velo_l_Arm_WristSHJnt
+    100020: Velo_l_Finger_01_01SHJnt
+    100022: Velo_l_Finger_01_02SHJnt
+    100024: Velo_l_Finger_02_01SHJnt
+    100026: Velo_l_Finger_02_02SHJnt
+    100028: Velo_l_Finger_03_01SHJnt
+    100030: Velo_l_Finger_03_02SHJnt
+    100032: Velo_l_Leg_AnkleSHJnt
+    100034: Velo_l_Leg_BallSHJnt
+    100036: Velo_l_Leg_HipSHJnt
+    100038: Velo_l_Leg_Knee_CurveSHJnt
+    100040: Velo_l_Leg_ToeSHJnt
+    100042: Velo_l_Toe_01_01SHJnt
+    100044: Velo_l_Toe_01_02SHJnt
+    100046: Velo_l_Toe_02_01SHJnt
+    100048: Velo_l_Toe_02_02SHJnt
+    100050: Velo_l_Toe_03_01SHJnt
+    100052: Velo_l_Toe_03_02SHJnt
+    100054: Velo_Neck_01SHJnt
+    100056: Velo_Neck_02SHJnt
+    100058: Velo_Neck_03SHJnt
+    100060: Velo_Neck_04SHJnt
+    100062: Velo_Neck_TopSHJnt
+    100064: Velo_r_Arm_ClavicleSHJnt
+    100066: Velo_r_Arm_Elbow_CurveSHJnt
+    100068: Velo_r_Arm_Shoulder_CurveSHJnt
+    100070: Velo_r_Arm_WristSHJnt
+    100072: Velo_r_Finger_01_01SHJnt
+    100074: Velo_r_Finger_01_02SHJnt
+    100076: Velo_r_Finger_02_01SHJnt
+    100078: Velo_r_Finger_02_02SHJnt
+    100080: Velo_r_Finger_03_01SHJnt
+    100082: Velo_r_Finger_03_02SHJnt
+    100084: Velo_r_Leg_AnkleSHJnt
+    100086: Velo_r_Leg_BallSHJnt
+    100088: Velo_r_Leg_HipSHJnt
+    100090: Velo_r_Leg_Knee_CurveSHJnt
+    100092: Velo_r_Leg_ToeSHJnt
+    100094: Velo_r_Toe_01_01SHJnt
+    100096: Velo_r_Toe_01_02SHJnt
+    100098: Velo_r_Toe_02_01SHJnt
+    100100: Velo_r_Toe_02_02SHJnt
+    100102: Velo_r_Toe_03_01SHJnt
+    100104: Velo_r_Toe_03_02SHJnt
+    100106: Velo_ROOTSHJnt
+    100108: Velo_Spine_01SHJnt
+    100110: Velo_Spine_02SHJnt
+    100112: Velo_Spine_03SHJnt
+    100114: Velo_Spine_04SHJnt
+    100116: Velo_Spine_TopSHJnt
+    100118: Velo_Tail_01_01SHJnt
+    100120: Velo_Tail_01_02SHJnt
+    100122: Velo_Tail_01_03SHJnt
+    100124: Velo_Tail_01_04SHJnt
+    100126: Velo_Tail_01_05SHJnt
+    100128: Velo_Tail_01_06SHJnt
+    100130: Velo_Tail_01_07SHJnt
+    100132: Velo_Tail_01_08SHJnt
+    100134: Velo_Tail_01_09SHJnt
+    400000: //RootNode
+    400002: Armature.003
+    400004: RootMotion
+    400006: Velo_Head_JawSHJnt
+    400008: Velo_Head_TopSHJnt
+    400010: Velo_HP_Msh.002
+    400012: Velo_l_Arm_ClavicleSHJnt
+    400014: Velo_l_Arm_Elbow_CurveSHJnt
+    400016: Velo_l_Arm_Shoulder_CurveSHJnt
+    400018: Velo_l_Arm_WristSHJnt
+    400020: Velo_l_Finger_01_01SHJnt
+    400022: Velo_l_Finger_01_02SHJnt
+    400024: Velo_l_Finger_02_01SHJnt
+    400026: Velo_l_Finger_02_02SHJnt
+    400028: Velo_l_Finger_03_01SHJnt
+    400030: Velo_l_Finger_03_02SHJnt
+    400032: Velo_l_Leg_AnkleSHJnt
+    400034: Velo_l_Leg_BallSHJnt
+    400036: Velo_l_Leg_HipSHJnt
+    400038: Velo_l_Leg_Knee_CurveSHJnt
+    400040: Velo_l_Leg_ToeSHJnt
+    400042: Velo_l_Toe_01_01SHJnt
+    400044: Velo_l_Toe_01_02SHJnt
+    400046: Velo_l_Toe_02_01SHJnt
+    400048: Velo_l_Toe_02_02SHJnt
+    400050: Velo_l_Toe_03_01SHJnt
+    400052: Velo_l_Toe_03_02SHJnt
+    400054: Velo_Neck_01SHJnt
+    400056: Velo_Neck_02SHJnt
+    400058: Velo_Neck_03SHJnt
+    400060: Velo_Neck_04SHJnt
+    400062: Velo_Neck_TopSHJnt
+    400064: Velo_r_Arm_ClavicleSHJnt
+    400066: Velo_r_Arm_Elbow_CurveSHJnt
+    400068: Velo_r_Arm_Shoulder_CurveSHJnt
+    400070: Velo_r_Arm_WristSHJnt
+    400072: Velo_r_Finger_01_01SHJnt
+    400074: Velo_r_Finger_01_02SHJnt
+    400076: Velo_r_Finger_02_01SHJnt
+    400078: Velo_r_Finger_02_02SHJnt
+    400080: Velo_r_Finger_03_01SHJnt
+    400082: Velo_r_Finger_03_02SHJnt
+    400084: Velo_r_Leg_AnkleSHJnt
+    400086: Velo_r_Leg_BallSHJnt
+    400088: Velo_r_Leg_HipSHJnt
+    400090: Velo_r_Leg_Knee_CurveSHJnt
+    400092: Velo_r_Leg_ToeSHJnt
+    400094: Velo_r_Toe_01_01SHJnt
+    400096: Velo_r_Toe_01_02SHJnt
+    400098: Velo_r_Toe_02_01SHJnt
+    400100: Velo_r_Toe_02_02SHJnt
+    400102: Velo_r_Toe_03_01SHJnt
+    400104: Velo_r_Toe_03_02SHJnt
+    400106: Velo_ROOTSHJnt
+    400108: Velo_Spine_01SHJnt
+    400110: Velo_Spine_02SHJnt
+    400112: Velo_Spine_03SHJnt
+    400114: Velo_Spine_04SHJnt
+    400116: Velo_Spine_TopSHJnt
+    400118: Velo_Tail_01_01SHJnt
+    400120: Velo_Tail_01_02SHJnt
+    400122: Velo_Tail_01_03SHJnt
+    400124: Velo_Tail_01_04SHJnt
+    400126: Velo_Tail_01_05SHJnt
+    400128: Velo_Tail_01_06SHJnt
+    400130: Velo_Tail_01_07SHJnt
+    400132: Velo_Tail_01_08SHJnt
+    400134: Velo_Tail_01_09SHJnt
+    2100000: lambert2
+    4300000: Velo_HP_Msh.002
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Velo_HP_Msh.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

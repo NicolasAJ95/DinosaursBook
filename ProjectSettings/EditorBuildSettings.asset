@@ -5,7 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/110_Panphagia/_Scene/SC_110_Panphagia.unity
+    guid: 5f35be87cab042643925541a4bdd13a6
+  - enabled: 0
+    path: Assets/070_DinosaurTheWord_Assets/_Scene/SC_070_DinosaurTheWord.unity
+    guid: 36d93729076f49e4490c547bd469682d
+  - enabled: 0
+    path: Assets/030_FindTheBones/_Scene/SC_030_FindTheBones.unity
+    guid: 82f7023753fb973448b321580f40089d
+  - enabled: 0
+    path: Assets/050_DinosaurBonesStructure/_Scene/SC_050_DinosaurBonesStructure.unity
+    guid: 068e06f3e94eb784f800ded1ce0f4375
+  - enabled: 0
+    path: Assets/310_DinosaurFight/_Scene/SC_310_DinosaursFight.unity
+    guid: fb76b1f0a6716d64bb98b7a29e41d8ea
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/360_EggsVsFootball_Assets/_Scene/SC_360_EggsVsFootball.unity
+    guid: 0f0665d5594cf444ebd841c0fd1f208e
+  - enabled: 0
+    path: Assets/170_Argentinosaurus/SC_170_Argentinosaurus.unity
+    guid: fba3b3565d787914bab0a87be7303057
+  - enabled: 0
+    path: Assets/090_DinosaursEra_Assets/SC001_DinosaursEra.unity
+    guid: 1faeeef052d864248929244e95467875
+  - enabled: 0
+    path: Assets/150_SizesOfDinosaurs/SC_150_SizesOfDinosaurs.unity
+    guid: 2580a19aa8563e645858713e85ca365d
+  - enabled: 0
+    path: Assets/130_PanphagiaInDanger_Assets/_Scene/SC_130_PanphagiaInDanger.unity
+    guid: b3a2df256fa32184bb6255785b979632
   m_configObjects: {}

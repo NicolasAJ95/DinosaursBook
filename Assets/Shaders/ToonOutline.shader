@@ -13,13 +13,14 @@ Shader "Custom/ToonOutlineUnlit"
 		[MaterialToggle(_VCOLOR_ON)] _VertexColor ("Enable Vertex Color", Float) = 0//6        
 		_Brightness ("Brightness 1 = neutral", Float) = 1.0							//7	
 		_OutlineColor ("Outline Color", Color) = (0.5,0.5,0.5,1.0)					//10
-		_Outline ("Outline width", Float) = 0.01									//11
+		_Outline ("Outline width", Float) = 0.01
+		_Transparency("Transparency", Range(0.0,1)) = 1//11
 
     }
  
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "RenderType" = "Transparent"  "Queue" = "Geometry+2"  }
 		LOD 250 
         Lighting Off
         Fog { Mode Off }
@@ -57,16 +58,18 @@ Shader "Custom/ToonOutlineUnlit"
 			    o.pos = v.vertex;
 			    o.pos.xyz += normalize(v.normal.xyz) *_Outline*0.01;
 			    o.pos = UnityObjectToClipPos(o.pos);
+			
 			    return o;
             }
             
             fixed4 _OutlineColor;
-            
-            fixed4 frag(v2f i) :COLOR 
+            fixed4 _Color;
+            fixed4 frag(v2f i) :COLOR : SV_Target
 			{
 		    	return _OutlineColor;
+				
 			}
-            
+
             ENDCG
         }
     }

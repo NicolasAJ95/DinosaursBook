@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 935dfbf31ceb74b4c9f33c25f3585114
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Argentinosaurus:brontosaurus_exp1
+    100004: Argentinosaurus:CATRigLLeg1
+    100006: Argentinosaurus:CATRigLLeg11
+    100008: Argentinosaurus:CATRigLLeg2
+    100010: Argentinosaurus:CATRigLLeg21
+    100012: Argentinosaurus:CATRigLLegAnkle
+    100014: Argentinosaurus:CATRigLLegAnkle1
+    100016: Argentinosaurus:CATRigRibcage001
+    100018: Argentinosaurus:CATRigRibcage002
+    100020: Argentinosaurus:CATRigRibcage003
+    100022: Argentinosaurus:CATRigRibcage003Bone001
+    100024: Argentinosaurus:CATRigRibcage003Bone002
+    100026: Argentinosaurus:CATRigRibcage004
+    100028: Argentinosaurus:CATRigRLeg1
+    100030: Argentinosaurus:CATRigRLeg11
+    100032: Argentinosaurus:CATRigRLeg2
+    100034: Argentinosaurus:CATRigRLeg21
+    100036: Argentinosaurus:CATRigRLegAnkle
+    100038: Argentinosaurus:CATRigRLegAnkle1
+    100040: Argentinosaurus:CATRigSpine2
+    100042: Argentinosaurus:CATRigSpine21
+    100044: Argentinosaurus:CATRigSpine22
+    100046: Argentinosaurus:CATRigSpine3
+    100048: Argentinosaurus:CATRigSpine31
+    100050: Argentinosaurus:CATRigSpine32
+    100052: Argentinosaurus:CATRigSpine4
+    100054: Argentinosaurus:CATRigSpine41
+    100056: Argentinosaurus:CATRigSpine42
+    100058: Argentinosaurus:CATRigSpine5
+    100060: Argentinosaurus:CATRigSpine51
+    100062: Argentinosaurus:CATRigSpine52
+    100064: Argentinosaurus:CATRigSpine6
+    100066: Argentinosaurus:CATRigSpine61
+    100068: Argentinosaurus:CATRigSpine7
+    100070: Argentinosaurus:CATRigSpine71
+    100072: Argentinosaurus:CATRigSpine8
+    100074: Argentinosaurus:CATRigSpine81
+    100076: Argentinosaurus:CATRigSpineCATRigSpine1
+    100078: Argentinosaurus:CATRigSpineCATRigSpine11
+    100080: Argentinosaurus:CATRigSpineCATRigSpine12
+    100082: Argentinosaurus:ikHandle1
+    100084: Argentinosaurus:ikHandle2
+    100086: Argentinosaurus:ikHandle3
+    100088: Argentinosaurus:ikHandle4
+    100090: Argentinosaurus:inf_CNT_back_leg_l
+    100092: Argentinosaurus:inf_CNT_back_leg_R
+    100094: Argentinosaurus:inf_CNT_front_leg_l
+    100096: Argentinosaurus:inf_CNT_front_leg_R
+    100098: Argentinosaurus:pose_CNT_back_leg_l
+    100100: Argentinosaurus:pose_CNT_back_leg_R
+    100102: Argentinosaurus:pose_CNT_front_leg_l
+    100104: Argentinosaurus:pose_CNT_front_leg_R
+    100106: Argentinosaurus:root_CNT_back_leg_l
+    100108: Argentinosaurus:root_CNT_back_leg_R
+    100110: Argentinosaurus:root_CNT_front_leg_l
+    100112: Argentinosaurus:root_CNT_front_leg_R
+    400000: //RootNode
+    400002: Argentinosaurus:brontosaurus_exp1
+    400004: Argentinosaurus:CATRigLLeg1
+    400006: Argentinosaurus:CATRigLLeg11
+    400008: Argentinosaurus:CATRigLLeg2
+    400010: Argentinosaurus:CATRigLLeg21
+    400012: Argentinosaurus:CATRigLLegAnkle
+    400014: Argentinosaurus:CATRigLLegAnkle1
+    400016: Argentinosaurus:CATRigRibcage001
+    400018: Argentinosaurus:CATRigRibcage002
+    400020: Argentinosaurus:CATRigRibcage003
+    400022: Argentinosaurus:CATRigRibcage003Bone001
+    400024: Argentinosaurus:CATRigRibcage003Bone002
+    400026: Argentinosaurus:CATRigRibcage004
+    400028: Argentinosaurus:CATRigRLeg1
+    400030: Argentinosaurus:CATRigRLeg11
+    400032: Argentinosaurus:CATRigRLeg2
+    400034: Argentinosaurus:CATRigRLeg21
+    400036: Argentinosaurus:CATRigRLegAnkle
+    400038: Argentinosaurus:CATRigRLegAnkle1
+    400040: Argentinosaurus:CATRigSpine2
+    400042: Argentinosaurus:CATRigSpine21
+    400044: Argentinosaurus:CATRigSpine22
+    400046: Argentinosaurus:CATRigSpine3
+    400048: Argentinosaurus:CATRigSpine31
+    400050: Argentinosaurus:CATRigSpine32
+    400052: Argentinosaurus:CATRigSpine4
+    400054: Argentinosaurus:CATRigSpine41
+    400056: Argentinosaurus:CATRigSpine42
+    400058: Argentinosaurus:CATRigSpine5
+    400060: Argentinosaurus:CATRigSpine51
+    400062: Argentinosaurus:CATRigSpine52
+    400064: Argentinosaurus:CATRigSpine6
+    400066: Argentinosaurus:CATRigSpine61
+    400068: Argentinosaurus:CATRigSpine7
+    400070: Argentinosaurus:CATRigSpine71
+    400072: Argentinosaurus:CATRigSpine8
+    400074: Argentinosaurus:CATRigSpine81
+    400076: Argentinosaurus:CATRigSpineCATRigSpine1
+    400078: Argentinosaurus:CATRigSpineCATRigSpine11
+    400080: Argentinosaurus:CATRigSpineCATRigSpine12
+    400082: Argentinosaurus:ikHandle1
+    400084: Argentinosaurus:ikHandle2
+    400086: Argentinosaurus:ikHandle3
+    400088: Argentinosaurus:ikHandle4
+    400090: Argentinosaurus:inf_CNT_back_leg_l
+    400092: Argentinosaurus:inf_CNT_back_leg_R
+    400094: Argentinosaurus:inf_CNT_front_leg_l
+    400096: Argentinosaurus:inf_CNT_front_leg_R
+    400098: Argentinosaurus:pose_CNT_back_leg_l
+    400100: Argentinosaurus:pose_CNT_back_leg_R
+    400102: Argentinosaurus:pose_CNT_front_leg_l
+    400104: Argentinosaurus:pose_CNT_front_leg_R
+    400106: Argentinosaurus:root_CNT_back_leg_l
+    400108: Argentinosaurus:root_CNT_back_leg_R
+    400110: Argentinosaurus:root_CNT_front_leg_l
+    400112: Argentinosaurus:root_CNT_front_leg_R
+    2100000: Argentinosaurus_Argentinosaurus_rig1_RetopoGroup2
+    4300000: Argentinosaurus:brontosaurus_exp1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Argentinosaurus:brontosaurus_exp1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

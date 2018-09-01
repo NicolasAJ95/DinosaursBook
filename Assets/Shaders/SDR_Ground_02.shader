@@ -9,6 +9,7 @@ Shader "Custom/Ground_02"
 		[Gamma]_AlphaRamp("Alpha Ramp", 2D) = "white" {}
 		[HideInInspector] _texcoord( "", 2D ) = "white" {}
 		[HideInInspector] __dirty( "", Int ) = 1
+		_Brightness ("Brightness 1 = neutral", Float) = 1.0				
 	}
 
 	SubShader
@@ -31,12 +32,13 @@ Shader "Custom/Ground_02"
 		uniform float4 _Tint;
 		uniform sampler2D _AlphaRamp;
 		uniform float4 _AlphaRamp_ST;
+		uniform float _Brightness;
 
 		void surf( Input i , inout SurfaceOutput o )
 		{
 			float2 uv_MainTex = i.uv_texcoord * _MainTex_ST.xy + _MainTex_ST.zw;
 			float4 tex2DNode1 = tex2D( _MainTex, uv_MainTex );
-			o.Albedo = ( tex2DNode1 * _Tint ).rgb;
+			o.Albedo = ( tex2DNode1 * _Tint ).rgb*_Brightness;
 			float2 uv_AlphaRamp = i.uv_texcoord * _AlphaRamp_ST.xy + _AlphaRamp_ST.zw;
 			o.Alpha = ( tex2DNode1.a * tex2D( _AlphaRamp, uv_AlphaRamp ).r );
 		}

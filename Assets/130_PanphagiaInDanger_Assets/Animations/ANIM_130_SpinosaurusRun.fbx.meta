@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 075fde15f3dc27b4690c2a4545b6d25b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature.001
+    100004: RootMotion
+    100006: Spino_HP.001
+    100008: T_Rex_Head_JawSHJnt
+    100010: T_Rex_Head_TopSHJnt
+    100012: T_Rex_l_Arm_ClavicleSHJnt
+    100014: T_Rex_l_Arm_ElbowSHJnt
+    100016: T_Rex_l_Arm_ShoulderSHJnt
+    100018: T_Rex_l_Arm_WristSHJnt
+    100020: T_Rex_l_Eyes_01SHJnt
+    100022: T_Rex_l_Finger_01_01SHJnt
+    100024: T_Rex_l_Finger_01_02SHJnt
+    100026: T_Rex_l_Leg_AnkleSHJnt
+    100028: T_Rex_l_Leg_BallSHJnt
+    100030: T_Rex_l_Leg_HipSHJnt
+    100032: T_Rex_l_Leg_Knee1SHJnt
+    100034: T_Rex_l_Leg_Knee2SHJnt
+    100036: T_Rex_l_Leg_ToeSHJnt
+    100038: T_Rex_l_Toes_01_01SHJnt
+    100040: T_Rex_l_Toes_01_02SHJnt
+    100042: T_Rex_l_Toes_02_01SHJnt
+    100044: T_Rex_l_Toes_02_02SHJnt
+    100046: T_Rex_l_Toes_03_01SHJnt
+    100048: T_Rex_l_Toes_03_02SHJnt
+    100050: T_Rex_Neck_01SHJnt
+    100052: T_Rex_Neck_TopSHJnt
+    100054: T_Rex_r_Arm_ClavicleSHJnt
+    100056: T_Rex_r_Arm_ElbowSHJnt
+    100058: T_Rex_r_Arm_ShoulderSHJnt
+    100060: T_Rex_r_Arm_WristSHJnt
+    100062: T_Rex_r_Eyes_01SHJnt
+    100064: T_Rex_r_Finger_01_01SHJnt
+    100066: T_Rex_r_Finger_01_02SHJnt
+    100068: T_Rex_r_Leg_AnkleSHJnt
+    100070: T_Rex_r_Leg_BallSHJnt
+    100072: T_Rex_r_Leg_HipSHJnt
+    100074: T_Rex_r_Leg_Knee1SHJnt
+    100076: T_Rex_r_Leg_Knee2SHJnt
+    100078: T_Rex_r_Leg_ToeSHJnt
+    100080: T_Rex_r_Toes_01_01SHJnt
+    100082: T_Rex_r_Toes_01_02SHJnt
+    100084: T_Rex_r_Toes_02_01SHJnt
+    100086: T_Rex_r_Toes_02_02SHJnt
+    100088: T_Rex_r_Toes_03_01SHJnt
+    100090: T_Rex_r_Toes_03_02SHJnt
+    100092: T_Rex_ROOTSHJnt
+    100094: T_Rex_Spine_01SHJnt
+    100096: T_Rex_Spine_02SHJnt
+    100098: T_Rex_Spine_03SHJnt
+    100100: T_Rex_Spine_04SHJnt
+    100102: T_Rex_Spine_TopSHJnt
+    100104: T_Rex_Tail_01_01SHJnt
+    100106: T_Rex_Tail_01_02SHJnt
+    100108: T_Rex_Tail_01_03SHJnt
+    100110: T_Rex_Tail_01_04SHJnt
+    100112: T_Rex_Tail_01_05SHJnt
+    100114: T_Rex_Tail_01_06SHJnt
+    100116: T_Rex_Tail_01_07SHJnt
+    100118: T_Rex_Tail_01_08SHJnt
+    100120: T_Rex_Tail_01_09SHJnt
+    400000: //RootNode
+    400002: Armature.001
+    400004: RootMotion
+    400006: Spino_HP.001
+    400008: T_Rex_Head_JawSHJnt
+    400010: T_Rex_Head_TopSHJnt
+    400012: T_Rex_l_Arm_ClavicleSHJnt
+    400014: T_Rex_l_Arm_ElbowSHJnt
+    400016: T_Rex_l_Arm_ShoulderSHJnt
+    400018: T_Rex_l_Arm_WristSHJnt
+    400020: T_Rex_l_Eyes_01SHJnt
+    400022: T_Rex_l_Finger_01_01SHJnt
+    400024: T_Rex_l_Finger_01_02SHJnt
+    400026: T_Rex_l_Leg_AnkleSHJnt
+    400028: T_Rex_l_Leg_BallSHJnt
+    400030: T_Rex_l_Leg_HipSHJnt
+    400032: T_Rex_l_Leg_Knee1SHJnt
+    400034: T_Rex_l_Leg_Knee2SHJnt
+    400036: T_Rex_l_Leg_ToeSHJnt
+    400038: T_Rex_l_Toes_01_01SHJnt
+    400040: T_Rex_l_Toes_01_02SHJnt
+    400042: T_Rex_l_Toes_02_01SHJnt
+    400044: T_Rex_l_Toes_02_02SHJnt
+    400046: T_Rex_l_Toes_03_01SHJnt
+    400048: T_Rex_l_Toes_03_02SHJnt
+    400050: T_Rex_Neck_01SHJnt
+    400052: T_Rex_Neck_TopSHJnt
+    400054: T_Rex_r_Arm_ClavicleSHJnt
+    400056: T_Rex_r_Arm_ElbowSHJnt
+    400058: T_Rex_r_Arm_ShoulderSHJnt
+    400060: T_Rex_r_Arm_WristSHJnt
+    400062: T_Rex_r_Eyes_01SHJnt
+    400064: T_Rex_r_Finger_01_01SHJnt
+    400066: T_Rex_r_Finger_01_02SHJnt
+    400068: T_Rex_r_Leg_AnkleSHJnt
+    400070: T_Rex_r_Leg_BallSHJnt
+    400072: T_Rex_r_Leg_HipSHJnt
+    400074: T_Rex_r_Leg_Knee1SHJnt
+    400076: T_Rex_r_Leg_Knee2SHJnt
+    400078: T_Rex_r_Leg_ToeSHJnt
+    400080: T_Rex_r_Toes_01_01SHJnt
+    400082: T_Rex_r_Toes_01_02SHJnt
+    400084: T_Rex_r_Toes_02_01SHJnt
+    400086: T_Rex_r_Toes_02_02SHJnt
+    400088: T_Rex_r_Toes_03_01SHJnt
+    400090: T_Rex_r_Toes_03_02SHJnt
+    400092: T_Rex_ROOTSHJnt
+    400094: T_Rex_Spine_01SHJnt
+    400096: T_Rex_Spine_02SHJnt
+    400098: T_Rex_Spine_03SHJnt
+    400100: T_Rex_Spine_04SHJnt
+    400102: T_Rex_Spine_TopSHJnt
+    400104: T_Rex_Tail_01_01SHJnt
+    400106: T_Rex_Tail_01_02SHJnt
+    400108: T_Rex_Tail_01_03SHJnt
+    400110: T_Rex_Tail_01_04SHJnt
+    400112: T_Rex_Tail_01_05SHJnt
+    400114: T_Rex_Tail_01_06SHJnt
+    400116: T_Rex_Tail_01_07SHJnt
+    400118: T_Rex_Tail_01_08SHJnt
+    400120: T_Rex_Tail_01_09SHJnt
+    2100000: Spinosaurus_Material.001
+    4300000: Spino_HP.001
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Spino_HP.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 4ed5ae1f5b3f99d458eb9391e564ea50
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Dragonfly
+    100006: dragonfly_Abdomen1_bone
+    100008: dragonfly_Abdomen2_bone
+    100010: dragonfly_Abdomen3_bone
+    100012: dragonfly_Abdomen4_bone
+    100014: dragonfly_Abdomen5_bone
+    100016: dragonfly_Abdomen6_bone
+    100018: dragonfly_Abdomen7_bone
+    100020: dragonfly_Abdomen8_bone
+    100022: dragonfly_Abdomen9-nub_bone
+    100024: dragonfly_Abdomen9_bone
+    100026: dragonfly_Head-nub_bone
+    100028: dragonfly_Head_bone
+    100030: dragonfly_l_Coxa_bone
+    100032: dragonfly_l_Femur_bone
+    100034: dragonfly_l_HindCoxa_bone
+    100036: dragonfly_l_HindFemur_bone
+    100038: dragonfly_l_HindTarsus-nub_bone
+    100040: dragonfly_l_HindTarsus_bone
+    100042: dragonfly_l_HindTibia_bone
+    100044: dragonfly_l_HindWing1_bone
+    100046: dragonfly_l_HindWing2-nub_bone
+    100048: dragonfly_l_HindWing2_bone
+    100050: dragonfly_l_HindWing2Roll_bone
+    100052: dragonfly_l_MiddleCoxa_bone
+    100054: dragonfly_l_MiddleFemur_bone
+    100056: dragonfly_l_MiddleTarsus-nub_bone
+    100058: dragonfly_l_MiddleTarsus_bone
+    100060: dragonfly_l_MiddleTibia_bone
+    100062: dragonfly_l_Tarsus-nub_bone
+    100064: dragonfly_l_Tarsus_bone
+    100066: dragonfly_l_Tibia_bone
+    100068: dragonfly_l_Wing1_bone
+    100070: dragonfly_l_Wing1_ctrl
+    100072: dragonfly_l_Wing2-nub_bone
+    100074: dragonfly_l_Wing2_bone
+    100076: dragonfly_l_Wing2Roll_bone
+    100078: dragonfly_r_Coxa_bone
+    100080: dragonfly_r_Femur_bone
+    100082: dragonfly_r_HindCoxa_bone
+    100084: dragonfly_r_HindFemur_bone
+    100086: dragonfly_r_HindTarsus-nub_bone
+    100088: dragonfly_r_HindTarsus_bone
+    100090: dragonfly_r_HindTibia_bone
+    100092: dragonfly_r_HindWing1_bone
+    100094: dragonfly_r_HindWing1_ctrl
+    100096: dragonfly_r_HindWing2-nub_bone
+    100098: dragonfly_r_HindWing2_bone
+    100100: dragonfly_r_HindWing2Roll_bone
+    100102: dragonfly_r_MiddleCoxa_bone
+    100104: dragonfly_r_MiddleFemur_bone
+    100106: dragonfly_r_MiddleTarsus-nub_bone
+    100108: dragonfly_r_MiddleTarsus_bone
+    100110: dragonfly_r_MiddleTibia_bone
+    100112: dragonfly_r_Tarsus-nub_bone
+    100114: dragonfly_r_Tarsus_bone
+    100116: dragonfly_r_Tibia_bone
+    100118: dragonfly_r_Wing1_bone
+    100120: dragonfly_r_Wing1_ctrl
+    100122: dragonfly_r_Wing2-nub_bone
+    100124: dragonfly_r_Wing2_bone
+    100126: dragonfly_r_Wing2Roll_bone
+    100128: dragonfly_Thorax_bone
+    400000: //RootNode
+    400002: Armature
+    400004: Dragonfly
+    400006: dragonfly_Abdomen1_bone
+    400008: dragonfly_Abdomen2_bone
+    400010: dragonfly_Abdomen3_bone
+    400012: dragonfly_Abdomen4_bone
+    400014: dragonfly_Abdomen5_bone
+    400016: dragonfly_Abdomen6_bone
+    400018: dragonfly_Abdomen7_bone
+    400020: dragonfly_Abdomen8_bone
+    400022: dragonfly_Abdomen9-nub_bone
+    400024: dragonfly_Abdomen9_bone
+    400026: dragonfly_Head-nub_bone
+    400028: dragonfly_Head_bone
+    400030: dragonfly_l_Coxa_bone
+    400032: dragonfly_l_Femur_bone
+    400034: dragonfly_l_HindCoxa_bone
+    400036: dragonfly_l_HindFemur_bone
+    400038: dragonfly_l_HindTarsus-nub_bone
+    400040: dragonfly_l_HindTarsus_bone
+    400042: dragonfly_l_HindTibia_bone
+    400044: dragonfly_l_HindWing1_bone
+    400046: dragonfly_l_HindWing2-nub_bone
+    400048: dragonfly_l_HindWing2_bone
+    400050: dragonfly_l_HindWing2Roll_bone
+    400052: dragonfly_l_MiddleCoxa_bone
+    400054: dragonfly_l_MiddleFemur_bone
+    400056: dragonfly_l_MiddleTarsus-nub_bone
+    400058: dragonfly_l_MiddleTarsus_bone
+    400060: dragonfly_l_MiddleTibia_bone
+    400062: dragonfly_l_Tarsus-nub_bone
+    400064: dragonfly_l_Tarsus_bone
+    400066: dragonfly_l_Tibia_bone
+    400068: dragonfly_l_Wing1_bone
+    400070: dragonfly_l_Wing1_ctrl
+    400072: dragonfly_l_Wing2-nub_bone
+    400074: dragonfly_l_Wing2_bone
+    400076: dragonfly_l_Wing2Roll_bone
+    400078: dragonfly_r_Coxa_bone
+    400080: dragonfly_r_Femur_bone
+    400082: dragonfly_r_HindCoxa_bone
+    400084: dragonfly_r_HindFemur_bone
+    400086: dragonfly_r_HindTarsus-nub_bone
+    400088: dragonfly_r_HindTarsus_bone
+    400090: dragonfly_r_HindTibia_bone
+    400092: dragonfly_r_HindWing1_bone
+    400094: dragonfly_r_HindWing1_ctrl
+    400096: dragonfly_r_HindWing2-nub_bone
+    400098: dragonfly_r_HindWing2_bone
+    400100: dragonfly_r_HindWing2Roll_bone
+    400102: dragonfly_r_MiddleCoxa_bone
+    400104: dragonfly_r_MiddleFemur_bone
+    400106: dragonfly_r_MiddleTarsus-nub_bone
+    400108: dragonfly_r_MiddleTarsus_bone
+    400110: dragonfly_r_MiddleTibia_bone
+    400112: dragonfly_r_Tarsus-nub_bone
+    400114: dragonfly_r_Tarsus_bone
+    400116: dragonfly_r_Tibia_bone
+    400118: dragonfly_r_Wing1_bone
+    400120: dragonfly_r_Wing1_ctrl
+    400122: dragonfly_r_Wing2-nub_bone
+    400124: dragonfly_r_Wing2_bone
+    400126: dragonfly_r_Wing2Roll_bone
+    400128: dragonfly_Thorax_bone
+    2100000: 'Material #40'
+    4300000: Dragonfly
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Dragonfly
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
